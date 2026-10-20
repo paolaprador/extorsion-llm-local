@@ -1,0 +1,8 @@
+﻿id_actor,id_evento,rol,tipo,descripcion,rubro,sexo,edad,cantidad,alias,detenido
+ev-001-a01,ev-001,victimario,grupo_de_personas,Los injertos del Rímac - Nueva Generación,,,,12.0,,True
+ev-001-a02,ev-001,victimario,persona,cabecilla de la banda,,,,,,
+ev-001-a03,ev-001,victimario,persona,lugarteniente,,,,,,
+ev-001-a04,ev-001,victima,persona,colectivero informal,,,,,,
+ev-001-a05,ev-001,victima,persona,propietario de inmueble,,,,,,
+ev-001-a06,ev-001,victima,persona,dueño de obra de construcción,,,,,,
+ev-001-a07,ev-001,victima,persona,empresario,,,,,,
