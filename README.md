@@ -21,7 +21,7 @@ noticias (1) ──► eventos (1) ──► actores (N)
 | `reporte_avance_actores_extorsion.ipynb` | Reporte de avance: esquema de actores, prompt y resultados |
 | `eventos.csv` | Eventos extraídos |
 | `actores.csv` | Actores extraídos |
-| `eventos_piloto` | Eventos extraídos ejemplo|
+| `eventos_piloto.csv` | Eventos extraídos ejemplo|
 
 
 ## Resultados preliminares
